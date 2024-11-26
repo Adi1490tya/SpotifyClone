@@ -1,0 +1,59 @@
+.body{
+
+}
+.container{
+    box-sizing: border-box;
+    padding: 1px;
+    margin: 0px;
+
+}
+.aaa{
+    display: flex;
+    justify-content: center;
+padding: 10px;
+
+}
+.home{
+    padding: 4px;
+}
+.hii{
+    padding: 4px;
+}
+
+.header{ 
+    background-color: aquamarine;
+    color:rgb(198, 118, 118);
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+ }
+  .container2{
+    display: flex;;
+
+  }
+.header2{
+    background-color: bisque;
+    padding: ;
+    width: 25%;
+}
+.header3{
+    background-color: brown;
+    padding: 0%;
+    width: 75%;
+
+}
+
+
+.but button {
+    border: none;
+    border-radius:300px;
+    text-decoration: none;
+    padding: 5px;
+}
+.si{
+    text-decoration: none;
+    background-color: yellow;
+    border-radius: 300px;
+    padding: 3px;
+}
